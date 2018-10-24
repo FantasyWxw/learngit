@@ -3,3 +3,4 @@ Git is free software
 Git is a good software
 My stupid boss still prefers SVN
 we will have a good time
+test the password if is still inuse
